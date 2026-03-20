@@ -234,40 +234,6 @@ APT_Tools.exe
 
 ---
 
-## 🤝 贡献指南
-
-我们欢迎你的贡献！如果你想添加新工具或改进现有功能：
-
-### 贡献流程
-
-1. **Fork** 项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-### 添加新工具
-
-1. 在 `data/tools.json` 中添加工具定义
-2. 将工具文件放入对应的 `tools/` 子目录
-3. 提供完善的工具文档
-
-**示例：**
-```json
-{
-  "id": "my-new-tool",
-  "name": "新工具名称",
-  "description": "简单描述",
-  "path": "tools/category/tool",
-  "start": {
-    "mode": "command",
-    "cmd": "command --arg {user_input}"
-  }
-}
-```
-
----
-
 ## 📝 许可证
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
@@ -277,8 +243,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 ## 📧 联系与支持
 
 - 📌 **问题报告**: [GitHub Issues](https://github.com/GhostWolfLab/APT_Tools/issues)
-- 💬 **讨论**: [GitHub Discussions](https://github.com/GhostWolfLab/APT_Tools/discussions)
-- 📧 **QQ群**: 816112115
+- 💬 **QQ群**: 816112115
 
 ---
 
