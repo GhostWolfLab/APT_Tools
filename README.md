@@ -298,7 +298,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 Made with ❤️ by Security Researchers
 
-![GitHub stars](https://img.shields.io/github/stars/GhostWolfLab/apt-tools?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GhostWolfLab/apt-tools?style=social)
+![GitHub stars](https://img.shields.io/github/stars/GhostWolfLab/APT_Tools?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GhostWolfLab/APT_Tools?style=social)
 
 </div>
