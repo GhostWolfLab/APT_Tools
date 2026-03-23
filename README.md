@@ -249,7 +249,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 🗺️ 贡献者名单
 
-酒化枯叶、EvilW01f(排名不分先后)
+酒化枯叶、EvilW01f、24歳、JKです(排名不分先后)
 
 ---
 
