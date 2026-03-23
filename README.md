@@ -163,7 +163,8 @@ AI/ML 相关的安全工具
 
 ### 下载地址
 
-
+百度网盘
+链接: https://pan.baidu.com/s/1axgZ9KLx3nddrK-_Z3e-hQ?pwd=wolf 提取码: wolf
 
 ### 使用方式
 
